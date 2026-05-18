@@ -6,7 +6,7 @@
 </section>
 
 <section class="servicios">
-    <h3>editado</h3>  
+    <h3>editado2</h3>  
 </section>
 
 <?php get_footer(); ?>
